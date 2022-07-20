@@ -1,0 +1,5 @@
+20-07-2022|Sugi|reguler|123|
+20-07-2022|Sugi|reguler|123|
+20-07-2022|Ayu|premium|22|
+20-07-2022|Ayu|premium|2|
+20-07-2022|Tes1|premium|10|3000000
